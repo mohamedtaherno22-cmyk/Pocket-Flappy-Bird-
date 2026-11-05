@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 5h | 2 |
+| Week 4 | Tier 1 | 6h | 2 |
 
 ## Contents
 
@@ -45,7 +45,7 @@ Oops, looks like I forgot to add the joystick module, so I added it real quick a
 
 ### 2026-11-02: Nov 2: PCB
 
-**4h**
+**5h**
 
 Nov 2: PCB
 
@@ -96,4 +96,4 @@ The final 3D models
 
 TL;DR; PCB & 3D model are done.
 
-Total Session Time: 4 hours
+Total Session Time: 5 hours
