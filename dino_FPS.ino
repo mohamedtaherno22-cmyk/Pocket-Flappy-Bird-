@@ -1,3 +1,5 @@
+// credits for https://github.com/TextZip/Dino-Game-Arduino-Edition/edit/main/dino_FPS/dino_FPS.ino
+
 #define TFT_CS     10
 #define TFT_RST    9
 #define TFT_DC     8
